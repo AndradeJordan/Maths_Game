@@ -1,0 +1,14 @@
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\bin\Debug\net8.0\Jeu_de_Maths.exe
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\bin\Debug\net8.0\Jeu_de_Maths.deps.json
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\bin\Debug\net8.0\Jeu_de_Maths.runtimeconfig.json
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\bin\Debug\net8.0\Jeu_de_Maths.dll
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\bin\Debug\net8.0\Jeu_de_Maths.pdb
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.AssemblyInfoInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.AssemblyInfo.cs
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.csproj.CoreCompileInputs.cache
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.dll
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\refint\Jeu_de_Maths.dll
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.pdb
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\Jeu_de_Maths.genruntimeconfig.cache
+C:\Users\andra\Desktop\learning\Csharp\Jeu_de_Maths\Jeu_de_Maths\obj\Debug\net8.0\ref\Jeu_de_Maths.dll
