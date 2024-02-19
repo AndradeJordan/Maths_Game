@@ -1,6 +1,6 @@
 # Project Description: Maths Game
 
-The ***"Maths Game"*** project, developed in **C#*, is an *interactive console-based application designed to challenge players with a series of mathematical questions. 
+The ***"Maths Game"*** project, developed in **C#**, is an *interactive console-based application designed to challenge players with a series of mathematical questions. 
 Upon launching the game, players are greeted with a personalized welcome message and prompted to solve a set number of randomly generated mathematical expressions.*
 
 # Description
